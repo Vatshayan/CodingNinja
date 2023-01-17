@@ -1,0 +1,2 @@
+# CodingNinja
+Everyday Coding practice
